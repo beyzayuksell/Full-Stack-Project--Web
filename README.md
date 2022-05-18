@@ -1,7 +1,7 @@
 # full-stack-project
 ## You must upload node modules directory to project.
 
-#Technologies
+# Technologies
 ### React.js
 ### Axios
 ### Rest Services
