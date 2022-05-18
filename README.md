@@ -13,6 +13,6 @@
 
 ## Images
 
-[https://github.com/beyzayuksell/full-stack-project-repo/blob/main/users_api.JPG]
+![](https://github.com/beyzayuksell/full-stack-project-repo/blob/main/users_api.JPG)
 
-[https://github.com/beyzayuksell/full-stack-project-repo/blob/main/users_list.JPG]
+![](https://github.com/beyzayuksell/full-stack-project-repo/blob/main/users_list.JPG)
