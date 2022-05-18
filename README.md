@@ -2,14 +2,13 @@
 ## You must upload node modules directory to project.
 
 # Technologies
-### React.js
-### Axios
-### Rest Services
-### Node.js
-### Npm
-### Java Spring Boot
-### Spring Data JPA (Hibernate)
-### H2 Database
+React.js
+Axios
+Rest Services
+Node.js & Npm
+Java Spring Boot
+Spring Data JPA (Hibernate)
+H2 Database
 
 ## Images
 
