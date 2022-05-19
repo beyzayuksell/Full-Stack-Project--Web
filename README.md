@@ -1,6 +1,4 @@
-# Full Stack Project
-
-![](https://komarev.com/ghpvc/?username=beyzayuksell)
+# Full Stack Project      ![](https://komarev.com/ghpvc/?username=beyzayuksell)
 
 
 ## You must upload node modules directory to project.
